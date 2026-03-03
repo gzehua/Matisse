@@ -8,11 +8,11 @@ androidx-espresso = "3.7.0"
 androidx-appcompat = "1.7.1"
 androidx-activity = "1.12.4"
 androidx-lifecycle = "2.10.0"
-androidx-compose-bom = "2026.02.00"
+androidx-compose-bom = "2026.02.01"
 
 junit = "4.13.2"
 
-coil = "3.3.0"
+coil = "3.4.0"
 glide = "1.0.0-beta08"
 
 [plugins]

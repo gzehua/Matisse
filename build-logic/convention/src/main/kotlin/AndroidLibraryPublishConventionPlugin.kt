@@ -28,7 +28,7 @@ class AndroidLibraryPublishConventionPlugin : Plugin<Project> {
                     name.set("Matisse")
                     description.set("An Android Image and Video Selection Framework Implemented with Jetpack Compose")
                     inceptionYear.set("2022")
-                    url.set("https://github.com/leavesCZY/Matisse")
+                    url.set("https://github.com/leavesczy/Matisse")
                     licenses {
                         license {
                             name.set("The Apache License, Version 2.0")
@@ -38,15 +38,15 @@ class AndroidLibraryPublishConventionPlugin : Plugin<Project> {
                     }
                     developers {
                         developer {
-                            id.set("leavesCZY")
-                            name.set("leavesCZY")
-                            url.set("https://github.com/leavesCZY")
+                            id.set("leavesczy")
+                            name.set("leavesczy")
+                            url.set("https://github.com/leavesczy")
                         }
                     }
                     scm {
-                        url.set("https://github.com/leavesCZY/Matisse")
-                        connection.set("scm:git:git://github.com/leavesCZY/Matisse.git")
-                        developerConnection.set("scm:git:ssh://git@github.com/leavesCZY/Matisse.git")
+                        url.set("https://github.com/leavesczy/Matisse")
+                        connection.set("scm:git:git://github.com/leavesczy/Matisse.git")
+                        developerConnection.set("scm:git:ssh://git@github.com/leavesczy/Matisse.git")
                     }
                 }
             }
